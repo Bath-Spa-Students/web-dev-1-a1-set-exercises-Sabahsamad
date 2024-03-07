@@ -1,0 +1,48 @@
+body{
+    background-image: url("BACKGROUND IMG .jpeg");
+    backdrop-filter: blur(6.5px);
+}
+h1{
+    color: bisque;
+    font-size: 35px;
+    text-align: center;
+}
+.sidebar-img{
+    width: 20%;
+    
+}
+p{
+    color: azure;
+    font-size: 20px;
+    text-align: center;
+}
+h2{
+    color: bisque;
+    font-size: 30px;
+    text-align: left;
+}
+li{
+    color: aquamarine;
+    font-size: 20px;
+    text-align: left;
+}
+h2{
+    color: bisque;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    color: rgb(240, 255, 245);
+    font-size: 25px;
+    text-align: left;
+}
+p{
+    color: azure;
+    font-size: 20px;
+    text-align: center;
+}
+h2{
+    color: bisque;
+    font-size: 30px;
+    text-align: left;
+}
