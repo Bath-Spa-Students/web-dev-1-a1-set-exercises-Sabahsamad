@@ -1,0 +1,72 @@
+body{ 
+    background-color:rgb(165, 119, 33);
+    padding: 0px 100px;
+    color: black; 
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+} 
+nav ul{ 
+    ul { list-style-type: none;/* Removes bullets */
+    margin: 10;/* Reset margin */ 
+    padding:20; /* Reset padding */ 
+}
+li {
+    display: inline-block; /* Display links horizontally */ 
+    margin-right: 20px; /* Add spacing between links */ 
+} 
+a { text-decoration: none; /* Remove underlines from links */ 
+} 
+} 
+nav li a{ font-size: 18px;
+     text-transform: uppercase;
+     color:black; padding:0px 30px; 
+     text-decoration: none; 
+    } 
+nav ul { 
+    text-align: center; 
+} 
+nav a:hover {
+     color: lightcyan;
+    }
+nav ul {
+     top: 0; width: 100%; 
+     background-color: rgb(116, 69, 69); /* Set your desired background color */ 
+    }
+
+    .TOPCASTS {
+        color: blue;
+        
+    }
+    .title {
+        color: rgb(255, 239, 239);
+        background-color: rgb(0, 0, 0);
+    }
+    .PLOT{
+        color: aliceblue;
+        background-color: black;
+    }
+    .USERREVIEWS{
+        color: aliceblue;
+        background-color: black;
+    }
+    
+.casts{
+    color: brown;
+    text-align: center;
+    background-color: black;
+}
+.plot{
+    color: brown;
+    text-align: center;
+}
+.userreviews{
+    color: brown;
+    text-align: center;
+}
+.TITLE{
+    color: brown;
+    text-align: center;
+}
