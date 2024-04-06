@@ -21,7 +21,7 @@ h2{
     font-size: 30px;
     text-align: left;
 }
-li{
+ul{
     color: aquamarine;
     font-size: 20px;
     text-align: left;
@@ -45,4 +45,7 @@ h2{
     color: bisque;
     font-size: 30px;
     text-align: left;
+}
+ol{
+    color: rgb(178, 23, 199);
 }
