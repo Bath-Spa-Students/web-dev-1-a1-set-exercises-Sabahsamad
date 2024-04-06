@@ -1,0 +1,73 @@
+body{
+    background-image: linear-gradient(#cc350b, #c66449, #a25d4a);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    color: #000000;
+    text-shadow: 1px 3px 10px #8c7b4faa;
+    background-color: #671f08;
+    border-radius: 15px;
+    padding: 5px;
+    border: 5px;
+    margin: 15px;
+    box-shadow: 2px 3px 10px #6b603ebb;
+}
+
+img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+.img1 { 
+    display: flex; 
+    flex-wrap: wrap; 
+    background-color: #79260b; 
+    border-radius: 10px;
+    box-shadow: 2px 3px 10px #6b603ebb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f5e3b6;
+    text-shadow: 1px 3px 5px #3e431da4;
+} 
+
+.image1 { 
+    flex: 1; 
+    padding: 10px; 
+    margin: 10px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f5e3b6;
+} 
+
+.blur{
+    filter: blur(2px)
+}
+
+.image2 { 
+    flex: 1; 
+    padding: 10px; 
+    margin: 10px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f5e3b6;
+} 
+
+.gray{
+    filter: grayscale(60%);  
+}
+
+.image3 { 
+    flex: 1; 
+    padding: 10px; 
+    margin: 10px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f5e3b6;
+} 
+
+.sepia{
+    filter: sepia(70%);
+}
