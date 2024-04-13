@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(255, 255, 255); 
+    display: flex; 
+    justify-content: center; 
+    font-family: 'Rancho'; 
+}
+
+h1 {
+    color: rgb(21, 19, 19); 
+    text-shadow: 0 2px 3px black; 
+    font-size: 95px; 
+    padding-left: 55px;
+}
+
+.video video{
+    box-shadow: 0 2px 7px rgb(218, 86, 108); 
+    padding: 10px;
+    width: 900px;
+    height: 400px;
+    transform: translate(20%,35%); 
+}
+
+.left { 
+    background-color:rgb(218, 86, 108);
+}
+
+.left img { 
+    transform: translate(-8%,-10%);
+}
+
+.side {
+    height: 100%; 
+    width: 25%; 
+    z-index: 1; 
+    top: 0; 
+    left: 0; 
+    position: fixed; 
+    padding-top: 20px; 
+}
